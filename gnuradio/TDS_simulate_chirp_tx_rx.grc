@@ -132,7 +132,7 @@
     </param>
     <param>
       <key>value</key>
-      <value>16000000</value>
+      <value>4000000</value>
     </param>
   </block>
   <block>
@@ -316,7 +316,7 @@
     </param>
     <param>
       <key>file</key>
-      <value>/home/user/tds-tutorials/data/TDS_Part_1_chirp_compare_complex64.bin</value>
+      <value>/home/user/tds-tutorials/data/TDS_Part_1_chirp_compare_fs_4000000_samplesPerCycle_4_complex64.bin</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -481,7 +481,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>True</value>
+      <value>0</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -848,7 +848,7 @@
     </param>
     <param>
       <key>fftsize</key>
-      <value>1024/2</value>
+      <value>1024/32</value>
     </param>
     <param>
       <key>_coordinate</key>
