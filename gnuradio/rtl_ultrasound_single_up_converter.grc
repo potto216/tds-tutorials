@@ -78,7 +78,7 @@
     </param>
     <param>
       <key>title</key>
-      <value></value>
+      <value>Capture signals using an upconverter and RTL-SDR</value>
     </param>
   </block>
   <block>

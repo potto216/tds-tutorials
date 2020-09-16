@@ -46,7 +46,7 @@
     </param>
     <param>
       <key>id</key>
-      <value>TDS_Introduction_sine_waves_lower_and_upper</value>
+      <value>TDS_simulate_chirp_tx_rx</value>
     </param>
     <param>
       <key>max_nouts</key>
@@ -78,7 +78,7 @@
     </param>
     <param>
       <key>title</key>
-      <value>TDS Introduction sine waves lower and upper</value>
+      <value>Simulate the TX and RX for a chirp signal</value>
     </param>
   </block>
   <block>

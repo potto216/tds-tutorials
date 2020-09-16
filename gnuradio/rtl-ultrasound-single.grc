@@ -78,7 +78,7 @@
     </param>
     <param>
       <key>title</key>
-      <value></value>
+      <value>Direct sample RTL-SDR collection</value>
     </param>
   </block>
   <block>

@@ -78,7 +78,7 @@
     </param>
     <param>
       <key>title</key>
-      <value></value>
+      <value>Collect in direct sample and with an upconverter</value>
     </param>
   </block>
   <block>
