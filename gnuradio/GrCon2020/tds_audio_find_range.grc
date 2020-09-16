@@ -46,7 +46,7 @@
     </param>
     <param>
       <key>id</key>
-      <value>TDS_Introduction_sine_waves_lower_and_upper</value>
+      <value>tds_audio_find_range</value>
     </param>
     <param>
       <key>max_nouts</key>
@@ -78,7 +78,7 @@
     </param>
     <param>
       <key>title</key>
-      <value>TDS Introduction sine waves lower and upper</value>
+      <value>Find the range using an audio chirp</value>
     </param>
   </block>
   <block>

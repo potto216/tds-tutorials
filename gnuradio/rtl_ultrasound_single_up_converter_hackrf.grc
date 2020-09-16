@@ -22,7 +22,7 @@
     </param>
     <param>
       <key>description</key>
-      <value></value>
+      <value>This can be compared to the RTL-SDR direct sample mode</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -78,7 +78,7 @@
     </param>
     <param>
       <key>title</key>
-      <value></value>
+      <value>Use an RTL with an AirSpy upconverter</value>
     </param>
   </block>
   <block>

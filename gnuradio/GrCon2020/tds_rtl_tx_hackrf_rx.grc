@@ -78,7 +78,7 @@
     </param>
     <param>
       <key>title</key>
-      <value>tds_rtl_tx_hackrf_rx</value>
+      <value>Transmit and capture a TDS signal with SDR hardware</value>
     </param>
   </block>
   <block>
