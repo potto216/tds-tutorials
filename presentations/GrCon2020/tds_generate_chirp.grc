@@ -500,7 +500,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [200, 340]
+    coordinate: [250, 361]
     rotation: 0
     state: enabled
 - name: qtgui_time_sink_x_0_0_0
@@ -629,7 +629,7 @@ blocks:
     color9: '0'
     comment: ''
     fc: '0'
-    fftsize: 1024/8
+    fftsize: '1024'
     freqhalf: 'True'
     grid: 'False'
     gui_hint: '[1,0,2,8]'
@@ -658,7 +658,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [736, 324]
+    coordinate: [724, 304]
     rotation: 0
     state: enabled
 
