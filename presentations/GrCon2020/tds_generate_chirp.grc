@@ -297,7 +297,7 @@ blocks:
 
       (total phase in radians)'
     fbtaps: '[1, -1]'
-    fftaps: '0.5'
+    fftaps: '[0.5, 0]'
     maxoutbuf: '0'
     minoutbuf: '0'
     oldstyle: 'False'
