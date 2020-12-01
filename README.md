@@ -3,7 +3,7 @@
 Ultrasound based time delay spectrometry (TDS) tutorials and learning resources
 
 ## Whats New
-Added the video for the sine wave generator
+Added the [video](https://www.youtube.com/watch?v=RQplkt0bw_c) generating a chirp though addition
  
 ## Sections
 ### GRCon2020
